@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "562692766165",
+    "firebase_url": "https://fir-demo-497fd-default-rtdb.firebaseio.com",
+    "project_id": "fir-demo-497fd",
+    "storage_bucket": "fir-demo-497fd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562692766165:android:7ca41ec3b54b9d5fad655c",
+        "android_client_info": {
+          "package_name": "com.example.firebase_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMu7jtyjDZdNAx2sGJxE3eM3Ia8NRbzP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562692766165:android:163d900e270c2be0ad655c",
+        "android_client_info": {
+          "package_name": "com.example.sarkariera"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMu7jtyjDZdNAx2sGJxE3eM3Ia8NRbzP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
